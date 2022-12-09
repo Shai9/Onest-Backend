@@ -6,19 +6,19 @@ Things you may want to cover
 
 ## This app uses ;
   - Ruby version: 2.7
-  - Rails version: 6.0.3.4
+  - Rails version: 7.2.3.4
   - Database: postgresql
-  - React version: 16.12.0
+  - React version: 17.12.0
   - React Hooks API
   - React Context API
   
 ## Run this app locally ;
-  - run `bundle exec rails db:prepare`
-  - run `npm install or yarn install`
-  - run `bundle exec rails s`
-  - navigate to http://localhost:3000
+  - Run `bundle exec rails db:prepare`
+  - Run `npm install or yarn install`
+  - Run `bundle exec rails s`
+  - Navigate to http://localhost:3000
 
-* Routes
+## Routes
 
  ```` 
  
